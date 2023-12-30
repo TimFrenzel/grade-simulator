@@ -1,3 +1,12 @@
+# Grade Simulator Script
+# Author: Tim Frenzel
+# Creation Date: 12/15/2023
+# Version: 1.0.0
+
+# Description:
+# This script provides functionalities for simulating grades
+# and analyzing outcomes under various distribution assumptions.
+
 #----------------- SETUP -----------------
 # Set the working directory
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
