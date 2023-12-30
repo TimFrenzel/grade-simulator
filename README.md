@@ -20,7 +20,7 @@ The Grade Simulator is an R-based tool designed to simulate grade outcomes under
 *The screenshot demonstrates the user interface of the Grade Simulator.*
 
 ## For Students and Educators
-This tool is crafted with both students and educators in mind. It's not just about simulating grades but about understanding the dynamics of academic performance. Whether it's to identify key areas of improvement or to experiment with grading structures, my goal is to make grade analysis more accessible and insightful.
+This analytical tool is specifically designed for both students and educators to provide a clearer, faster insight into academic performance dynamics. It's designed to streamline grade analysis, making it more intuitive and insightful, and will gradually include additional functionalities to aid in identifying potential areas for improvement and the relationships between various academic abilities.
 
 ## Upcoming Features
 Stay tuned for upcoming updates that will include additional features and enhancements to the user experience.
